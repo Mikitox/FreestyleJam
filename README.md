@@ -7,5 +7,5 @@ This means that Yvona takes 50 minutes a day to cap, or 25 minutes with perfect 
 Place the Freestyle Jam skill onto your hotkey bar in F1 position.
 Extract the files to a folder and run freestyleV1.02.exe
 
-Created by y3tii.
+Created by y3tii, compiled and written with AutoIt v3.
 2016
