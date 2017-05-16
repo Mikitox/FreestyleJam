@@ -1,5 +1,5 @@
 # FreestyleJam
--y3tii Freestyle Jam V1.05-
+-y3tii Freestyle Jam V1.06-
 For training Yvona Renown which was added in the MusicQ update. Equip a silent score scroll that lasts 1 minute.
 Yvona training caps at 2000 exp daily, 40 exp per 1 minute play, and another 40 exp for completing 5 combos.
 This means that Yvona takes 50 minutes a day to cap, or 25 minutes with perfect combos.
@@ -12,7 +12,7 @@ You can change the default values used in freestyle.ini
 
 HOW TO DOWNLOAD-
 Click the releases button at the top, to download the current version in .rar format.
-Extract the files to a folder and run freestyleV1.05.exe
+Extract the files to a folder and run freestyleV1.06.exe
 
 If you run into problems, read the readme file included.
 
